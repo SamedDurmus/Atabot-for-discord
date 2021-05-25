@@ -60,7 +60,7 @@ async def on_message(message):
 
                 
 
-client.run("ODQ2MjA4MDUyNjc5OTMzOTcy.YKsKqQ.4SBRfxX8KRaZu3hkANVHnhjWp2M")
+client.run("YOUR DISCORD BOT TOKEN")
 
 
         
